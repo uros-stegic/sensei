@@ -16,7 +16,7 @@ make
 In order to run example for training RBM on MNIST dataset, first you need a dataset. I've prepaired
 MNIST dataset in CSV format that's readable by sensei (although, any CSV should be readable). This
 file should be placed inside `test/dataset` folder. One can download the dataset from [here](https://drive.google.com/file/d/12Vx-E484RyFWLndMq7QqP7cAy4TT8pTb/view?usp=sharing)
-```
+
 After the dataset has been downloaded, issue this command from the project root to train RBM model:
 ```bash
 make run
