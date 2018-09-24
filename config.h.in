@@ -1,0 +1,3 @@
+#define sensei_VERSION_MAJOR @sensei_VERSION_MAJOR@
+#define sensei_VERSION_MINOR @sensei_VERSION_MINOR@
+#define sensei_VERSION_PATCH @sensei_VERSION_PATCH@
